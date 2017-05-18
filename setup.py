@@ -33,5 +33,6 @@ networking framework""",
                         'Programming Language :: Python',
                         'Topic :: Software Development :: Libraries',
                         'Topic :: System :: Networking'],
+    use_2to3         = True,
     )
 
